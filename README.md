@@ -1,15 +1,7 @@
-# Portfólio — Kelvin Rosendo
+# Kelvin Rosendo — Portfólio
 
-Site pessoal estático publicado em https://kelvinrosendo.github.io/ com GitHub Pages a partir da raiz da branch principal.
+Site estático com páginas de início, projetos, sobre, contato e sete estudos de caso. Catálogo paginado e categorias com URLs próprias.
 
-HTML, CSS e JavaScript sem dependências de build. Abra `index.html` ou sirva esta pasta com um servidor estático. O conteúdo principal funciona sem JavaScript; os filtros de projetos são um aprimoramento.
+Portfólio focado em conteúdo e navegação. Não utiliza imagens de projetos nem galerias. O acervo inclui busca, filtros, ordenação, paginação e explicações expansíveis.
 
-## Atualizações
-
-- Conteúdo e projetos: `index.html`.
-- Identidade visual e responsividade: `style.css`.
-- Filtros: `app.js`.
-
-As ilustrações são composições conceituais em CSS, não capturas das aplicações. Informações e estados dos projetos foram consultados nos repositórios públicos em 14/10/2026. SAT Agendamentos é identificado como repositório derivado. Não há métricas de impacto ou experiência profissional inventadas.
-
-Fontes: perfil https://github.com/kelvinRosendo e READMEs dos projetos vinculados no site. Tipografia DM Sans e Manrope via Google Fonts, com fontes de sistema como alternativa.
+Conteúdo derivado dos READMEs públicos consultados em 14/10/2026. As páginas distinguem funcionalidades atuais de roadmap e indicam o fork de SAT Agendamentos.
